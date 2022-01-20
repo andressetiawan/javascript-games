@@ -1,2 +1,2 @@
 # Javascript games
-Learn JavaScript by Building 7 Games
+Learn JavaScript by Building Games
